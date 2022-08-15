@@ -1,0 +1,50 @@
+PYTHON CAPSTONE APP IDEAS
+
+1.Fitness Tracker
+  Features
+-Login/Logout
+-User Profile
+-Explore Page for User Interactions
+-Personal Goal Page
+-Exercise/Workout Tracker/Calender
+-Calorie/Meal planner
+
+2.Date Activity Helper
+  Features
+-Login/Logout
+-Profile
+-Search Locations
+-See nearby activities/restaurants/hotels etc
+-Add/Select options for activities/restaurants/hotels,to add 
+to a Calender
+-Rate the overall date night/weekend for other users to See
+-See weather for upcoming date
+
+3.Budget Helper
+  Features
+-Login/Logout
+-Profile
+-Income Input
+-Goals Page
+-Budgeting tracker/charts/graphs
+-Alerts
+-Ratings/Reviews for Savings/Investment Apps Page
+
+4.Python Game
+  Features
+-Login/Logout
+-Profile
+-Game (Snake game? Flappy bird?)
+-If you die, Revive option; take a python coding quiz 
+-Goal page/Progress tracker for python coding (Beginner, Intermediate, Advanced)
+
+5.Moving Helper
+  Features
+-Login/Logout
+-Profile
+-Search for sale/rent homes etc
+-Show local school Ratings
+-Local Crime stats
+-Local sex offenders (Like Watchdog)
+-Nearby restaurants, activities, events
+-Annual seasons/weather
