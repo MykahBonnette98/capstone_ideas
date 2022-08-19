@@ -38,6 +38,19 @@ to a Calender
 -If you die, Revive option; take a python coding quiz 
 -Goal page/Progress tracker for python coding (Beginner, Intermediate, Advanced)
 
+
+MVP PYTHON GAME
+-Login,Register,Logout
+-Game
+-Profile
+-Highscore
+
+Future Features
+-Settings
+-Change Skins,Maps Etc.
+-More Games
+
+
 5.Moving Helper
   Features
 -Login/Logout
